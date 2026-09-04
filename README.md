@@ -24,7 +24,7 @@ Unlike cloud-based AI code reviewers, this project uses **Ollama + Llama 3.2 loc
 * **Llama 3.2**
 * **Ollama**
 * **Streamlit**
-* **LangChain** *(if used in your implementation)*
+* **LangChain** 
 
 ## 🔄 How It Works
 
